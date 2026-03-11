@@ -1,4 +1,4 @@
-# Telecom-X-2
+# Telecom-X2
 Desafío del curso ALURA programa ONE
 
 # Proyecto: Predicción de Cancelación de Clientes en Telecomunicaciones
