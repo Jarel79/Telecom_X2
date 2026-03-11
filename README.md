@@ -1,12 +1,10 @@
-# Telecom-X-Alura-2
+# Telecom-X-2
 Desafío del curso ALURA programa ONE
 
 # Proyecto: Predicción de Cancelación de Clientes en Telecomunicaciones
 
 ## Descripción  
-Este proyecto analiza un conjunto de datos de clientes de una empresa de telecomunicaciones con el objetivo de predecir la cancelación de clientes (Churn).  
-
-Se aplicaron técnicas de análisis exploratorio de datos (EDA), balanceo de clases, normalización y modelado predictivo usando diferentes algoritmos de Machine Learning.  
+El presente proyecto analiza una base de datos de clientes de una empresa de telecomunicaciones, la finalidad, predecir la cancelación de clientes (Churn), para lo cual se aplicaron diversas técnicas de análisis, como el análisis exploratorio de datos (EDA), balanceo de clases, normalización y modelado predictivo usando diferentes algoritmos de Machine Learning.  
 
 ## Flujo de trabajo  
 
@@ -53,6 +51,7 @@ Se aplicaron técnicas de análisis exploratorio de datos (EDA), balanceo de cla
 
 ## Archivos incluidos  
 
-- `Telecom_X_2.ipynb` → Notebook con todo el análisis.  
+- `README.md` → Este documento.
+- `Telecom_x_2.ipynb` → Notebook con todo el análisis.  
 - `datos-telecom-x.csv` → Datos originales sin manipulación.  
-- `README.md` → Este documento.  
+  
